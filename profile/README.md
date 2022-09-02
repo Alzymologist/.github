@@ -6,7 +6,7 @@ We have a chemical laboratory, hardware development shop, software development t
 
 [The company website](https://zymologia.fi) is mostly devoted to beer analysis work.
 
-Here on Github we store our software and hardware development projects, at the moment mostly focused around [Substrate](https://substrate.io/) ecosystem (Polkadot, Kusama, etc.), the most promising blockchain environment in our humble opinion. We are not representatives of Parity Inc, although we do contract work for them.
+Here on Github we store our software and hardware development projects, at the moment mostly focused around [Substrate](https://substrate.io/) ecosystem (Polkadot, Kusama, etc.), the most promising blockchain environment in our humble opinion. We are not representatives of Parity Inc, although we work closely with them.
 
 🇫🇮 We are an official Finnish enterprise, VAT number FI31620309. We are experimenting as small business doing completely legal cryptocurrency accounting and we pay taxes at the same time as regulations develop and change.
 
