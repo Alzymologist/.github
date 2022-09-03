@@ -1,5 +1,5 @@
-![Alzymologist Oy logo dark](profile/namelogo_dark_theme.svg#gh-dark-mode-only)
-![Alzymologist Oy logo light](profile/namelogo_light_theme.svg#gh-light-mode-only)
+![Alzymologist Oy logo dark](.github/profile/namelogo_dark_theme.svg#gh-dark-mode-only)
+![Alzymologist Oy logo light](.github/profile/namelogo_light_theme.svg#gh-light-mode-only)
 
 Alzymologist Oy is a research and development team capitalizing on overqualified personnel.
 
@@ -13,5 +13,5 @@ Our on-chain addresses are:
 
 | Icon | Chain | Address |
 | --- | --- | --- |
-| ![Alzy polkadot icon](profile/Alzy_polkadot.svg) | Polkadot | 12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq |
-| ![Alzy kusama icon](profile/Alzy_kusama.svg) | Kusama | EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g |
+| ![Alzy polkadot icon](.github/profile/Alzy_polkadot.svg) | Polkadot | 12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq |
+| ![Alzy kusama icon](.github/profile/Alzy_kusama.svg) | Kusama | EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g |
