@@ -1,17 +1,17 @@
-![Alzymologist Oy](namelogo.svg)
+![Alzymologist Oy logo dark](/profile/namelogo_dark_theme.svg#gh-dark-mode-only)
+![Alzymologist Oy logo light](/profile/namelogo_light_theme.svg#gh-light-mode-only)
 
-Alzymologist Oy is a research, laboratory and software development team capitalizing on overqualified personnel.
+Alzymologist Oy is a research and development team capitalizing on overqualified personnel.
 
-We have a chemical laboratory, hardware development shop, software development team and some urge to do good things.
+We have a chemical laboratory, hardware workshop, software development team, and some urge to do good things. [The company website](https://zymologia.fi) is devoted to our chemical branch and beer analysis work.
 
-[The company website](https://zymologia.fi) is mostly devoted to beer analysis work.
+Here on Github we organize software and hardware development projects, at the moment mostly focused around [Substrate](https://substrate.io/) ecosystem (Polkadot, Kusama, etc.), the most promising blockchain environment in our humble opinion. We are not representatives of Parity Inc, although we work closely with them.
 
-Here on Github we store our software and hardware development projects, at the moment mostly focused around [Substrate](https://substrate.io/) ecosystem (Polkadot, Kusama, etc.), the most promising blockchain environment in our humble opinion. We are not representatives of Parity Inc, although we work closely with them.
-
-🇫🇮 We are an official Finnish enterprise, VAT number FI31620309. We are experimenting as small business doing completely legal cryptocurrency accounting and we pay taxes at the same time as regulations develop and change.
+🇫🇮 We are an official Finnish enterprise, VAT number FI31620309. As a small business, we are experimenting with fully legal cryptocurrency accounting. We pay taxes following evolving regulations.
 
 Our on-chain addresses are:
 
-12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq (Polkadot)
-
-EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g (Kusama)
+| Icon | Chain | Address |
+| --- | --- | --- |
+| ![Alzy polkadot icon](/profile/Alzy_polkadot.svg) | Polkadot | 12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq |
+| ![Alzy kusama icon](/profile/Alzy_kusama.svg) | Kusama | EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g |

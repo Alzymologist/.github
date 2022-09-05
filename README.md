@@ -1,1 +1,1 @@
-# .github
+This repository contains a readme for the homepage of Alzymologist Oy.
