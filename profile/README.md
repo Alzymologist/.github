@@ -1,5 +1,5 @@
-![Alzymologist Oy logo dark](/profile/namelogo_dark_theme.svg#gh-dark-mode-only)
-![Alzymologist Oy logo light](/profile/namelogo_light_theme.svg#gh-light-mode-only)
+![Alzymologist Oy logo dark](https://github.com/Alzymologist/.github/blob/3537dd8be6bbc9cedc460dbbf53e418ea14a11aa/profile/namelogo_dark_theme.svg#gh-dark-mode-only)
+![Alzymologist Oy logo light](https://github.com/Alzymologist/.github/blob/3537dd8be6bbc9cedc460dbbf53e418ea14a11aa/profile/namelogo_light_theme.svg#gh-light-mode-only)
 
 Alzymologist Oy is a research and development team capitalizing on overqualified personnel.
 
@@ -11,7 +11,11 @@ Here on Github we organize software and hardware development projects, at the mo
 
 Our on-chain addresses are:
 
-| Icon | Chain | Address |
-| --- | --- | --- |
-| ![Alzy polkadot icon](/profile/Alzy_polkadot.svg) | Polkadot | 12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq |
-| ![Alzy kusama icon](/profile/Alzy_kusama.svg) | Kusama | EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g |
+
+**Polkadot address:**  
+12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq  
+![Alzy polkadot icon](https://github.com/Alzymologist/.github/blob/3537dd8be6bbc9cedc460dbbf53e418ea14a11aa/profile/Alzy_polkadot.svg)
+
+**Kusama address:**  
+EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g  
+![Alzy kusama icon](https://github.com/Alzymologist/.github/blob/3537dd8be6bbc9cedc460dbbf53e418ea14a11aa/profile/Alzy_kusama.svg)
