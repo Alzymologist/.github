@@ -11,11 +11,32 @@ Here on Github we organize software and hardware development projects, at the mo
 
 Our on-chain addresses are:
 
+**Alzymologist** (Polkadot)   
+12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq   
+![Alzy-polkadot](https://github.com/Alzymologist/.github/blob/3537dd8be6bbc9cedc460dbbf53e418ea14a11aa/profile/Alzy_polkadot.svg)
+   
+**Alzymologist** (Kusama)   
+EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g   
+![Alzy-kusama](https://github.com/Alzymologist/.github/blob/3537dd8be6bbc9cedc460dbbf53e418ea14a11aa/profile/Alzy_kusama.svg)
 
-**Polkadot address:**  
-12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq  
-![Alzy polkadot icon](https://github.com/Alzymologist/.github/blob/3537dd8be6bbc9cedc460dbbf53e418ea14a11aa/profile/Alzy_polkadot.svg)
+## Trusted validators on Kusama
+ 
+List of trusted validators on Kusama that we can recommend for staking:   
 
-**Kusama address:**  
-EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g  
-![Alzy kusama icon](https://github.com/Alzymologist/.github/blob/3537dd8be6bbc9cedc460dbbf53e418ea14a11aa/profile/Alzy_kusama.svg)
+**Alzymologist/Alzymologist-validator-0**   
+EAp3SeY72kfoCUV9SRbmZyiWVEhoQevwLASo7HmiTxCVKuv
+   
+**Alzymologist/Alzymologist-validator-1**   
+HPb2Eumk74WJ1rCnVL8rdQvJ8ALyUhxRmGxVrbHbuQ8fFMW
+   
+**Sasha/Alzymologist-00**   
+EQHdPbmAySkGg8UmTDfnVTkU7FhQ1ytKPMopsoN7Kuy2eth
+   
+**Sasha/Alzymologist-01**   
+EkDQN44Bn4SB9oLQTk5fSxCeRPFYAndH8dCGNeRAMLjfp41
+   
+**♞GameTheory♜**   
+DY3hczPcJjHXScXkKwJZ7vgqTE4bZaCUa56XsAQH8gDzB7x
+   
+**♞GameTheory♜/v2**   
+FPwa55diVEYwSuhNXwDACk31u4BTe2kgC255BsibKJwFksc
