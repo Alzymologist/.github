@@ -53,5 +53,5 @@ Trusted validators on Polkadot that we recommend for staking:
 **Alzymologist / Alzymologist validator 0**   
 123rZfdp1R6pBAN8Uft7NtsnSNLHvLgrBSkvLXtXcXtbP2Z9
 
-**♞GameTheory♜**
+**♞GameTheory♜**  
 13Srw7dVtGJnZrV3o6RCAJ97MaGbSKShQQiSYjbGp4Jvu4Cs
